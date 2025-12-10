@@ -27,107 +27,107 @@ All badges are clickable and link directly to their official credential pages.
 
   <!-- Badge 1 -->
   <a href="https://www.credly.com/badges/00ac9854-6ab7-4697-bad6-26ab9a4cf9a3" target="_blank">
-    <img src="BADGE1_IMAGE_URL" width="140" alt="Badge 1" />
+    <img src="https://images.credly.com/size/340x340/images/d9ab365d-7897-4973-a764-8acf6c277570/Coursera_20IBM_20Data_20Analyst_20Prof_20Cert_20V3.png" width="140" alt="Badge 1" />
   </a>
 
   <!-- Badge 2 -->
-  <a href="BADGE2_PAGE_URL" target="_blank">
-    <img src="BADGE2_IMAGE_URL" width="140" alt="Badge 2" />
+  <a href="https://www.credly.com/badges/39e2ac3c-2dea-4bb8-9092-1500643a4a75" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/a38d1560-0b86-4857-89a0-1b4d33b3f686/image.png" width="140" alt="Badge 2" />
   </a>
 
   <!-- Badge 3 -->
-  <a href="BADGE3_PAGE_URL" target="_blank">
-    <img src="BADGE3_IMAGE_URL" width="140" alt="Badge 3" />
+  <a href="https://www.credly.com/badges/3fa43449-3f8a-4a2e-a0d7-20c7beea3bee" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="140" alt="Badge 3" />
   </a>
 
   <!-- Badge 4 -->
-  <a href="BADGE4_PAGE_URL" target="_blank">
-    <img src="BADGE4_IMAGE_URL" width="140" alt="Badge 4" />
+  <a href="https://www.credly.com/badges/216b53a5-1647-4de9-84c7-2b12b4089292" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/335a694d-1fc4-4c83-a467-f140862a0a1e/Coursera_20Introduction_20to_20Neural_20Networks_20with_20PyTorch.png" width="140" alt="Badge 4" />
   </a>
 
   <!-- Badge 5 -->
-  <a href="BADGE5_PAGE_URL" target="_blank">
-    <img src="BADGE5_IMAGE_URL" width="140" alt="Badge 5" />
+  <a href="https://www.credly.com/badges/25f18334-09e7-45c8-9022-84bf1c9f4205" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" width="140" alt="Badge 5" />
   </a>
 
   <!-- Badge 6 -->
-  <a href="BADGE6_PAGE_URL" target="_blank">
-    <img src="BADGE6_IMAGE_URL" width="140" alt="Badge 6" />
+  <a href="https://www.credly.com/badges/5ad5f609-d6c0-41e8-85e4-dc8b47e027db" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" width="140" alt="Badge 6" />
   </a>
 
   <!-- Badge 7 -->
-  <a href="BADGE7_PAGE_URL" target="_blank">
-    <img src="BADGE7_IMAGE_URL" width="140" alt="Badge 7" />
+  <a href="https://www.credly.com/badges/db842214-27e0-45e9-97a7-d189ea89ed8e" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" width="140" alt="Badge 7" />
   </a>
 
   <!-- Badge 8 -->
-  <a href="BADGE8_PAGE_URL" target="_blank">
-    <img src="BADGE8_IMAGE_URL" width="140" alt="Badge 8" />
+  <a href="https://www.credly.com/badges/a15b72ef-4b6a-4a8e-b10b-b2c541cc04dc" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/cf50a8a1-22fb-4e81-8103-d894046ff410/image.png" width="140" alt="Badge 8" />
   </a>
 
   <!-- Badge 9 -->
-  <a href="BADGE9_PAGE_URL" target="_blank">
-    <img src="BADGE9_IMAGE_URL" width="140" alt="Badge 9" />
+  <a href="https://www.credly.com/badges/b2423560-0abd-421d-8704-c77bb6c33fe7" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/8a8e33de-e50b-4a5f-80de-faf8ab3ac1c5/image.png" width="140" alt="Badge 9" />
   </a>
 
   <!-- Badge 10 -->
-  <a href="BADGE10_PAGE_URL" target="_blank">
-    <img src="BADGE10_IMAGE_URL" width="140" alt="Badge 10" />
+  <a href="https://www.credly.com/badges/7286d2e4-9fc5-4bec-9c77-f09cb7547739" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/16835b69-6ec9-49f2-8eed-60ca27de3466/image.png" width="140" alt="Badge 10" />
   </a>
 
   <!-- Badge 11 -->
-  <a href="BADGE11_PAGE_URL" target="_blank">
-    <img src="BADGE11_IMAGE_URL" width="140" alt="Badge 11" />
+  <a href="https://www.credly.com/badges/4001425d-efba-4ce4-af7c-bf4bc8473681" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f1d0f26d-8960-402a-a426-a1c1b7f00650/image.png" width="140" alt="Badge 11" />
   </a>
 
   <!-- Badge 12 -->
-  <a href="BADGE12_PAGE_URL" target="_blank">
-    <img src="BADGE12_IMAGE_URL" width="140" alt="Badge 12" />
+  <a href="https://www.credly.com/badges/f7a966b4-4261-418b-bcbf-a909f42f4932" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/42f7ca3c-6eb3-47d2-a7f3-3b1093ea1b35/image.png" width="140" alt="Badge 12" />
   </a>
 
   <!-- Badge 13 -->
-  <a href="BADGE13_PAGE_URL" target="_blank">
-    <img src="BADGE13_IMAGE_URL" width="140" alt="Badge 13" />
+  <a href="https://www.credly.com/badges/db088c58-fbf1-4336-bd79-5711cb80563c" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/6eb08161-0425-4fc0-b66c-a1138dee7953/image.png" width="140" alt="Badge 13" />
   </a>
 
   <!-- Badge 14 -->
-  <a href="BADGE14_PAGE_URL" target="_blank">
-    <img src="BADGE14_IMAGE_URL" width="140" alt="Badge 14" />
+  <a href="https://www.credly.com/badges/12d22c17-ed10-48aa-a08f-0fc558807e39" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png" width="140" alt="Badge 14" />
   </a>
 
   <!-- Badge 15 -->
-  <a href="BADGE15_PAGE_URL" target="_blank">
-    <img src="BADGE15_IMAGE_URL" width="140" alt="Badge 15" />
+  <a href="https://www.credly.com/badges/4509f4eb-6911-441c-9c45-9ff9de87db30" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png" width="140" alt="Badge 15" />
   </a>
 
   <!-- Badge 16 -->
-  <a href="BADGE16_PAGE_URL" target="_blank">
-    <img src="BADGE16_IMAGE_URL" width="140" alt="Badge 16" />
+  <a href="https://www.credly.com/badges/917a49cb-339b-456e-9b3b-59ba3b821523" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png" width="140" alt="Badge 16" />
   </a>
 
   <!-- Badge 17 -->
-  <a href="BADGE17_PAGE_URL" target="_blank">
-    <img src="BADGE17_IMAGE_URL" width="140" alt="Badge 17" />
+  <a href="https://www.credly.com/badges/43aab748-294a-498d-98e7-30a883154f76" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" width="140" alt="Badge 17" />
   </a>
 
   <!-- Badge 18 -->
-  <a href="BADGE18_PAGE_URL" target="_blank">
-    <img src="BADGE18_IMAGE_URL" width="140" alt="Badge 18" />
+  <a href="https://www.credly.com/badges/d8e2d676-1f7a-4972-a15f-a1488b050a89" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" width="140" alt="Badge 18" />
   </a>
 
   <!-- Badge 19 -->
-  <a href="BADGE19_PAGE_URL" target="_blank">
-    <img src="BADGE19_IMAGE_URL" width="140" alt="Badge 19" />
+  <a href="https://www.credly.com/badges/888376a2-9f9c-41e7-9ee4-02395b44521a" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4dd14b9d-2750-43bc-a5f6-27970c0de0fa/image.png" width="140" alt="Badge 19" />
   </a>
 
   <!-- Badge 20 -->
-  <a href="BADGE20_PAGE_URL" target="_blank">
-    <img src="BADGE20_IMAGE_URL" width="140" alt="Badge 20" />
+  <a href="https://www.credly.com/badges/ebf4486b-69ad-4b94-b1dd-6142a06e9cfa" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="140" alt="Badge 20" />
   </a>
 
   <!-- Badge 21 -->
-  <a href="BADGE21_PAGE_URL" target="_blank">
-    <img src="BADGE21_IMAGE_URL" width="140" alt="Badge 21" />
+  <a href="https://www.credly.com/badges/d620f933-bfb1-4e7f-8909-ed2004b70b51" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/1447954e-9923-4703-a647-eac80e5f0682/image.png" width="140" alt="Badge 21" />
   </a>
 
 </div>
