@@ -26,7 +26,7 @@ All badges are clickable and link directly to their official credential pages.
 <div align="center">
 
   <!-- Badge 1 -->
-  <a href="BADGE1_PAGE_URL" target="_blank">
+  <a href="https://www.credly.com/badges/00ac9854-6ab7-4697-bad6-26ab9a4cf9a3" target="_blank">
     <img src="BADGE1_IMAGE_URL" width="140" alt="Badge 1" />
   </a>
 
