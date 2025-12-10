@@ -15,6 +15,111 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- =============================== -->
+<!--         HERO SECTION            -->
+<!-- =============================== -->
+
+<h1 align="center">Hi there, I'm Aaron Goldman 👋</h1>
+
+<h3 align="center">Data Analyst • Data Scientist • AI Prompt Engineer</h3>
+
+<p align="center">
+  I turn messy data into clear insights — using SQL, Power BI, Python, and Machine Learning to help teams make smarter decisions.  
+  Passionate about HR analytics, business intelligence, and data storytelling.
+</p>
+
+<br>
+
+<!-- =============================== -->
+<!--     CONNECT / CONTACT BUTTONS   -->
+<!-- =============================== -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaron-goldmans/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aarondatascientist@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aarongoldmananalyst" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+---
+
+# 🧠 About Me
+
+- 📊 Data Analyst with strong experience in SQL, Power BI, and Python  
+- 🤖 Skilled in AI-assisted analytics, LLM prompt engineering, and automation  
+- 📈 Passionate about HR analytics, business intelligence, and workforce insights  
+- 🚀 Focused on building dashboards that drive decisions — not just display numbers  
+- 🎓 21 industry-recognized certifications (IBM, Google, Coursera)  
+- 🌎 Based in the U.S., open to remote roles  
+
+---
+
+# 🛠️ Skills & Tools
+
+### **Languages & Analytics**
+<p>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20Query-006400?style=for-the-badge"/>
+</p>
+
+### **Data Visualization & BI**
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### **Machine Learning & AI**
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📌 **NEON HR Analytics Case Study — Workforce & Attrition Insights**  
+A full SQL + Power BI HR analytics project using a dataset of 18,500 employees.  
+Includes attrition modeling, compensation analysis, tenure risk scoring, and a neon-themed dashboard.
+
+🔗 https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-CASE-STUDY-Employee-Attrition-Workforce-Insights
+
+---
+
+### 📌 **MarketEdge Retail Analytics**  
+SQL + Python + Tableau project detecting retail margin erosion.
+
+🔗 https://github.com/Aarongoldmananalyst/MarketEdge-Retail-Analytics
+
+---
+
+### 📌 **12M Cost-Cut Healthcare Analytics**  
+Healthcare analytics case study using Python to detect claim reduction opportunities.
+
+🔗 https://github.com/Aarongoldmananalyst/12M-Cost-Cut-Rx-Healthcare-Analytics
+
+---
+
+### 📌 **Data-Driven UX A/B Optimization**  
+Real-world business case using Python + statistics to improve conversion and UX decisions.
+
+🔗 https://github.com/Aarongoldmananalyst/Data-Driven-UX-Optimization-Through-A-B-Testing-an-d-ROI-Analytics
+
+---
+
+<br>
+
 
 
 
