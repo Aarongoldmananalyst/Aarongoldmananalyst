@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   I turn messy data into clear insights — using SQL, Power BI, Python, and Machine Learning to help teams make smarter decisions.  
-  Passionate about HR analytics, business intelligence, and data storytelling.
+  Passionate about HR analytics, business intelligence, and data storytelling.  
+  I combine **analytics + design**, producing work that is both **technically strong** and **visually exceptional**.
 </p>
 
 <br>
@@ -89,32 +90,55 @@ Here are some ideas to get you started:
 
 # 🚀 Featured Projects
 
-### 📌 **NEON HR Analytics Case Study — Workforce & Attrition Insights**  
-A full SQL + Power BI HR analytics project using a dataset of 18,500 employees.  
-Includes attrition modeling, compensation analysis, tenure risk scoring, and a neon-themed dashboard.
-
+### 🔹 **Neon HR Analytics Case Study — Attrition & Workforce Insights**  
+A full SQL → Power BI pipeline analyzing 18,500 employees, predicting attrition, and revealing workforce trends.  
+**Tech:** SQL Server, Power BI, DAX, Data Modeling  
 🔗 https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-CASE-STUDY-Employee-Attrition-Workforce-Insights
 
 ---
 
-### 📌 **MarketEdge Retail Analytics**  
-SQL + Python + Tableau project detecting retail margin erosion.
+### 🔹 **Neon HR Analytics Dashboard — Tableau Edition**  
+A fully interactive neon-themed HR analytics dashboard for workforce metrics, DEI, tenure, and attrition insights.  
+**Tech:** Tableau, HR Analytics, Dashboard UX  
+🔗 https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-DASHBOARD-Workforce-Metrics-and-Talent-Intelligence
 
+---
+
+### 🔹 **The Future of Tech Skills — Data-Driven Insights**  
+An analytics project uncovering trends in tech skills, emerging demands, and workforce predictions.  
+**Tech:** Python, Pandas, Exploratory Data Analysis  
+🔗 https://github.com/Aarongoldmananalyst/The-Future-of-Tech-Skills-Data-Driven-Insights
+
+---
+
+### 🔹 **Winning the Space Race with Data Science**  
+A full-cycle ML project predicting SpaceX Falcon 9 landing success.  
+**Tech:** Python, SQL, Machine Learning, Plotly Dash  
+🔗 https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science
+
+---
+
+### 🔹 **Data-Driven UX Optimization — A/B Testing & ROI Analytics**  
+Statistical A/B testing + Snowflake + Tableau to identify ROI opportunities and redesign user experience.  
+**Tech:** Python, Snowflake, Tableau, Statsmodels  
+🔗 https://github.com/Aarongoldmananalyst/Data-Driven-UX-Optimization-Through-A-B-Testing-and-ROI-Analytics
+
+---
+
+### 🔹 **MarketEdge Retail Analytics**  
+End-to-end analytics uncovering retail margin erosion and operational inefficiencies.  
+**Tech:** SQL, Python, Tableau  
 🔗 https://github.com/Aarongoldmananalyst/MarketEdge-Retail-Analytics
 
 ---
 
-### 📌 **12M Cost-Cut Healthcare Analytics**  
-Healthcare analytics case study using Python to detect claim reduction opportunities.
-
+### 🔹 **12M-Cost-Cut-Rx Healthcare Analytics**  
+Healthcare claims analytics identifying savings opportunities and reducing cost leakage.  
+**Tech:** SQL, Python, EDA, Visualization  
 🔗 https://github.com/Aarongoldmananalyst/12M-Cost-Cut-Rx-Healthcare-Analytics
 
----
 
-### 📌 **Data-Driven UX A/B Optimization**  
-Real-world business case using Python + statistics to improve conversion and UX decisions.
 
-🔗 https://github.com/Aarongoldmananalyst/Data-Driven-UX-Optimization-Through-A-B-Testing-an-d-ROI-Analytics
 
 ---
 
@@ -234,5 +258,38 @@ All badges are clickable and link directly to their official credential pages.
   <a href="https://www.credly.com/badges/d620f933-bfb1-4e7f-8909-ed2004b70b51" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/1447954e-9923-4703-a647-eac80e5f0682/image.png" width="140" alt="Badge 21" />
   </a>
+
+</div>
+
+# 📫 Contact
+
+<div align="center">
+
+| Platform | Link |
+|---------|------|
+| 💼 LinkedIn | https://www.linkedin.com/in/aaron-goldmans/ |
+| 📧 Email | aarondatascientist@gmail.com |
+| 🖥️ GitHub | https://github.com/Aarongoldmananalyst |
+
+</div>
+
+---
+
+<br>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aarongoldmananalyst&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarongoldmananalyst&theme=tokyonight" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+✨ *Thanks for visiting my GitHub profile — feel free to explore my work or reach out for collaboration!*  
 
 </div>
