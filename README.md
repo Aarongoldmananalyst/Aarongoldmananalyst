@@ -260,6 +260,15 @@ All badges are clickable and link directly to their official credential pages.
 <!--  ⭐ IMPORTANT: blank line above this line  -->
 <!--  ⭐ IMPORTANT: blank line above this line  -->
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <<img width="1024" height="1024" alt="ANALYTICS" src="https://github.com/user-attachments/assets/f3cb4268-277f-4665-983f-37d4218641b8" />
+>
+</div>
+
 
 <br>
 <br>
