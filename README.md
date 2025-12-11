@@ -265,31 +265,28 @@ All badges are clickable and link directly to their official credential pages.
 
 <div align="center">
 
-| Platform | Link |
-|---------|------|
-| 💼 LinkedIn | https://www.linkedin.com/in/aaron-goldmans/ |
-| 📧 Email | aarondatascientist@gmail.com |
-| 🖥️ GitHub | https://github.com/Aarongoldmananalyst |
+<a href="https://www.linkedin.com/in/aaron-goldmans/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aarondatascientist@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aarongoldmananalyst" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
+
+<!--  ⭐ IMPORTANT: blank line above this line  -->
+
 
 ---
 
 <br>
 
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aarongoldmananalyst&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarongoldmananalyst&theme=tokyonight" height="160"/>
-
-</div>
-
----
-
-<div align="center">
-  
-✨ *Thanks for visiting my GitHub profile — feel free to explore my work or reach out for collaboration!*  
-
-</div>
+✨ *Thanks for visiting my GitHub profile — feel free to explore my work or reach out for collaboration!*
