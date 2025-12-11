@@ -36,18 +36,9 @@ Here are some ideas to get you started:
 <!-- =============================== -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aaron-goldmans/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aarondatascientist@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aarongoldmananalyst" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/aaron-goldmans/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:aarondatascientist@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://github.com/Aarongoldmananalyst" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<br>
 
 ---
 
@@ -261,23 +252,34 @@ All badges are clickable and link directly to their official credential pages.
 
 </div>
 
+<br>
+
+
+
+
+<!--  ⭐ IMPORTANT: blank line above this line  -->
+<!--  ⭐ IMPORTANT: blank line above this line  -->
+
+
+<br>
+<br>
+<!--  ⭐ IMPORTANT: blank line above this line  -->
+
+---
+
+<br>
+
 # 📫 Contact
 
-<div align="center">
 
-<a href="https://www.linkedin.com/in/aaron-goldmans/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:aarondatascientist@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aarongoldmananalyst" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/aaron-goldmans/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:aarondatascientist@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://github.com/Aarongoldmananalyst" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 </div>
+
+
 
 
 <!--  ⭐ IMPORTANT: blank line above this line  -->
