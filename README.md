@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--         HERO SECTION            -->
 <!-- =============================== -->
 
-<h1 align="center">Hi there, I'm Aaron Goldman 👋</h1>
+<h1 align="center"> I'm Aaron Goldman 👋</h1>
 
 <h3 align="center">Data Analyst • Data Scientist • AI Prompt Engineer</h3>
 
