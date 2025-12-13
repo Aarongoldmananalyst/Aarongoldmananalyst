@@ -279,7 +279,7 @@ All badges are clickable and link directly to their official credential pages.
 <br>
 <!--  ⭐ IMPORTANT: blank line above this line  -->
 
----
+
 
 <br>
 
