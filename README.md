@@ -51,33 +51,36 @@ Here are some ideas to get you started:
 - 🎓 21 industry-recognized certifications (IBM, Google, Coursera)  
 - 🌎 Based in the U.S., open to remote roles  
 
+
+
+
 ---
 
 # 🛠️ Skills & Tools
 
-### **Languages & Analytics**
-<p>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20Query-006400?style=for-the-badge"/>
-</p>
 
 ### **Data Visualization & BI**
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/Aarongoldmananalyst/12M-Cost-Cut-Rx-Healthcare-Analytics)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Aarongoldmananalyst/Conversion-Catalyst)
+[![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge)](https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-CASE-STUDY)
+[![Power Query](https://img.shields.io/badge/Power%20Query-006400?style=for-the-badge)](https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-CASE-STUDY)
+
+### **Data Visualization & BI**
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-CASE-STUDY)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-DASHBOARD)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/Aarongoldmananalyst/MarketEdge-Retail-Analytics)
 
 ### **Machine Learning & AI**
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Aarongoldmananalyst/SpaceX-Machine-Learning-Project)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Aarongoldmananalyst/SpaceX-Machine-Learning-Project)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/Aarongoldmananalyst/SpaceX-Machine-Learning-Project)
+
 
 ---
+
+
+
+
 
 # 🚀 Featured Projects
 
