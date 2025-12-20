@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <h1 align="center"> I'm Aaron Goldman 👋</h1>
 
-<h3 align="center">Data Analyst • Data Scientist • AI Prompt Engineer</h3>
+<h3 align="center">Data Analyst | Business Analytics & Decision Intelligence
+</h3>
 
 <p align="center">
   I turn messy data into clear insights — using SQL, Power BI, Python, and Machine Learning to help teams make smarter decisions.  
