@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> I'm Aaron Goldman 👋</h1>
 
-<h3 align="center">Senior Data Analyst | End-to-End Analytics, Experimentation (A/B Testing) & Executive Decision Support
-
+<h3 align="center">Senior Data Analyst | End-to-End Analytics & Executive Decision Support
 </h3>
 
 <p align="center">
@@ -49,7 +48,8 @@ Core tools include SQL, Python, Power BI, and Tableau, with a focus on scalable,
 ---
 
 # 🧠 About Me  
-📊 Senior Data Analyst specializing in end-to-end analytics and experimentation using SQL, Python, Power BI, and Tableau  
+📊 Senior Data Analyst specializing in end-to-end analytics and experimentation using SQL, Python, Power BI, and Tableau
+🧭 I approach analytics by first clarifying the business decision, validating the data, and communicating insights in a way leaders can act on immediately.
 🧪 Experienced in experimentation (A/B testing), statistical analysis, and data-driven decision support  
 📈 Domain experience across healthcare cost optimization, HR attrition & workforce strategy, retail analytics, and product & growth analytics  
 🚀 Focused on delivering executive-ready insights that support go / no-go decisions, cost reduction, and revenue growth  
