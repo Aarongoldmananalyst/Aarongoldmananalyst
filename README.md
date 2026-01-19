@@ -103,6 +103,13 @@ Core tools include SQL, Python, Power BI, and Tableau, with a focus on scalable,
 
 # 🚀 Featured Projects
 
+### 🔹 Analytics Pipelines Playbook — End-to-End Decision Intelligence  
+A visual + step-by-step playbook of the analytics pipelines I use to move from business questions → raw data → clean tables → dashboards → executive decisions (HR, A/B testing, healthcare, retail).  
+Tech: SQL, Power BI, Tableau, Data Modeling, Data Validation, Stakeholder Communication  
+🔗 https://github.com/Aarongoldmananalyst/analytics-pipelines-playbook
+
+---
+
 ### 🔹 **Neon HR Analytics Case Study — Attrition & Workforce Insights**  
 A full SQL → Power BI pipeline analyzing 18,500 employees, predicting attrition, and revealing workforce trends.  
 **Tech:** SQL Server, Power BI, DAX, Data Modeling  
