@@ -103,9 +103,9 @@ Core tools include SQL, Python, Power BI, and Tableau, with a focus on scalable,
 
 # 🚀 Featured Projects
 
-### 🔹 Analytics Pipelines Playbook — End-to-End Decision Intelligence  
-A visual + step-by-step playbook of the analytics pipelines I use to move from business questions → raw data → clean tables → dashboards → executive decisions (HR, A/B testing, healthcare, retail).  
-Tech: SQL, Power BI, Tableau, Data Modeling, Data Validation, Stakeholder Communication  
+### 📘 Analytics Pipelines Playbook — End-to-End Decision Intelligence  
+A visual, step-by-step playbook of how I move from business questions → raw data → analytics tables → dashboards → executive decisions across HR, experimentation, healthcare, and retail.  
+Tech: SQL, Power BI, Tableau, Data Modeling, Stakeholder Communication  
 🔗 https://github.com/Aarongoldmananalyst/analytics-pipelines-playbook
 
 ---
