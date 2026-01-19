@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  Senior Data Analyst who designs and owns end-to-end analytics and experimentation pipelines that translate complex business questions into executive-ready insights and measurable outcomes.
+  
+I specialize in turning complex data into clear, decision-ready insights.
 
 My work spans healthcare cost optimization, HR attrition & workforce strategy, retail and pricing analytics, and product experimentation (A/B testing). I specialize in framing the right questions, validating data rigorously, and delivering insights that directly support go / no-go decisions, cost reduction, and revenue growth.
 
