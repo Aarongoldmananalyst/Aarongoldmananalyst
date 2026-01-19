@@ -21,13 +21,17 @@ Here are some ideas to get you started:
 
 <h1 align="center"> I'm Aaron Goldman 👋</h1>
 
-<h3 align="center">Data Analyst | Business Analytics & Decision Intelligence
+<h3 align="center">Senior Data Analyst | End-to-End Analytics, Experimentation (A/B Testing) & Executive Decision Support
+
 </h3>
 
 <p align="center">
-  I turn messy data into clear insights — using SQL, Power BI, Python, and Machine Learning to help teams make smarter decisions.  
-  Passionate about HR analytics, business intelligence, and data storytelling.  
-  I combine **analytics + design**, producing work that is both **technically strong** and **visually exceptional**.
+  Senior Data Analyst who designs and owns end-to-end analytics and experimentation pipelines that translate complex business questions into executive-ready insights and measurable outcomes.
+
+My work spans healthcare cost optimization, HR attrition & workforce strategy, retail and pricing analytics, and product experimentation (A/B testing). I specialize in framing the right questions, validating data rigorously, and delivering insights that directly support go / no-go decisions, cost reduction, and revenue growth.
+
+Core tools include SQL, Python, Power BI, and Tableau, with a focus on scalable, repeatable analytics frameworks—not one-off dashboards.
+
 </p>
 
 <br>
@@ -43,14 +47,13 @@ Here are some ideas to get you started:
 
 ---
 
-# 🧠 About Me
-
-- 📊 Data Analyst with strong experience in SQL, Power BI, and Python  
-- 🤖 Skilled in AI-assisted analytics, LLM prompt engineering, and automation  
-- 📈 Passionate about HR analytics, business intelligence, and workforce insights  
-- 🚀 Focused on building dashboards that drive decisions — not just display numbers  
-- 🎓 21 industry-recognized certifications (IBM, Google, Coursera)  
-- 🌎 Based in the U.S., open to remote roles  
+# 🧠 About Me  
+📊 Senior Data Analyst specializing in end-to-end analytics and experimentation using SQL, Python, Power BI, and Tableau  
+🧪 Experienced in experimentation (A/B testing), statistical analysis, and data-driven decision support  
+📈 Domain experience across healthcare cost optimization, HR attrition & workforce strategy, retail analytics, and product & growth analytics  
+🚀 Focused on delivering executive-ready insights that support go / no-go decisions, cost reduction, and revenue growth  
+🎓 Industry-recognized certifications (IBM, Google, Coursera) supporting a strong analytics foundation  
+🌎 Based in the U.S. and open to remote roles
 
 
 
