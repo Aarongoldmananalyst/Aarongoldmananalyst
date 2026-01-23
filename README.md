@@ -55,8 +55,7 @@ Core tools include SQL, Python, Power BI, and Tableau, with a focus on scalable,
 • Senior Data Analyst owning analytics end-to-end — from business framing and data modeling to executive decision support  
 • Proven impact across HR, healthcare, retail, and growth analytics using SQL, Python, BI, and experimentation  
 • Focused on turning complex data into clear, actionable insights leaders can use immediately  
-
-🎓 Industry-recognized certifications (IBM, Google, Coursera) supporting a strong analytics foundation  
+  
 🌎 Based in the U.S. and open to remote roles
 
 
