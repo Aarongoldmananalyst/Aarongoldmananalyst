@@ -47,7 +47,12 @@ Core tools include SQL, Python, Power BI, and Tableau, with a focus on scalable,
 
 ---
 
-# 🧠 About Me  
+# 🧠 About Me 
+
+## How I Work 
+## I start with the business decision, validate the data, design a scalable pipeline, and communicate insights in plain English so leaders can act with confidence.
+
+
 📊 Senior Data Analyst specializing in end-to-end analytics and experimentation using SQL, Python, Power BI, and Tableau
 🧭 I approach analytics by first clarifying the business decision, validating the data, and communicating insights in a way leaders can act on immediately.
 🧪 Experienced in experimentation (A/B testing), statistical analysis, and data-driven decision support  
