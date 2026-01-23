@@ -52,12 +52,10 @@ Core tools include SQL, Python, Power BI, and Tableau, with a focus on scalable,
 ## How I Work 
 ## I start with the business decision, validate the data, design a scalable pipeline, and communicate insights in plain English so leaders can act with confidence.
 
+• Senior Data Analyst owning analytics end-to-end — from business framing and data modeling to executive decision support  
+• Proven impact across HR, healthcare, retail, and growth analytics using SQL, Python, BI, and experimentation  
+• Focused on turning complex data into clear, actionable insights leaders can use immediately  
 
-📊 Senior Data Analyst specializing in end-to-end analytics and experimentation using SQL, Python, Power BI, and Tableau
-🧭 I approach analytics by first clarifying the business decision, validating the data, and communicating insights in a way leaders can act on immediately.
-🧪 Experienced in experimentation (A/B testing), statistical analysis, and data-driven decision support  
-📈 Domain experience across healthcare cost optimization, HR attrition & workforce strategy, retail analytics, and product & growth analytics  
-🚀 Focused on delivering executive-ready insights that support go / no-go decisions, cost reduction, and revenue growth  
 🎓 Industry-recognized certifications (IBM, Google, Coursera) supporting a strong analytics foundation  
 🌎 Based in the U.S. and open to remote roles
 
@@ -154,7 +152,8 @@ Healthcare claims analytics identifying savings opportunities and reducing cost 
 
 
 
-## 🎖️ Verified Certifications & Credentials
+## 🎖️ Industry-recognized certifications in data analytics, business intelligence, and data science (IBM, Google, Coursera).
+
 
 Below is a collection of my verified certifications from IBM, Coursera, and Google.
 All badges are clickable and link directly to their official credential pages.
