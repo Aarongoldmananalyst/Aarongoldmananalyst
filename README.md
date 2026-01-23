@@ -108,40 +108,22 @@ Core tools include SQL, Python, Power BI, and Tableau, with a focus on scalable,
 
 # 🚀 Featured Projects
 
-### 📘 Analytics Pipelines Playbook — End-to-End Decision Intelligence  
+### ⭐ 📘 Analytics Pipelines Playbook — End-to-End Decision Intelligence  
 A visual, step-by-step playbook of how I move from business questions → raw data → analytics tables → dashboards → executive decisions across HR, experimentation, healthcare, and retail.  
 Tech: SQL, Power BI, Tableau, Data Modeling, Stakeholder Communication  
 🔗 https://github.com/Aarongoldmananalyst/analytics-pipelines-playbook
 
 ---
 
-### 🔹 **Neon HR Analytics Case Study — Attrition & Workforce Insights**  
+### 🔹 **HR Analytics Case Study — Attrition & Workforce Insights**  
 A full SQL → Power BI pipeline analyzing 18,500 employees, predicting attrition, and revealing workforce trends.  
 **Tech:** SQL Server, Power BI, DAX, Data Modeling  
 🔗 https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-CASE-STUDY-Employee-Attrition-Workforce-Insights
 
 ---
 
-### 🔹 **Neon HR Analytics Dashboard — Tableau Edition**  
-A fully interactive neon-themed HR analytics dashboard for workforce metrics, DEI, tenure, and attrition insights.  
-**Tech:** Tableau, HR Analytics, Dashboard UX  
-🔗 https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-DASHBOARD-Workforce-Metrics-and-Talent-Intelligence
 
----
 
-### 🔹 **The Future of Tech Skills — Data-Driven Insights**  
-An analytics project uncovering trends in tech skills, emerging demands, and workforce predictions.  
-**Tech:** Python, Pandas, Exploratory Data Analysis  
-🔗 https://github.com/Aarongoldmananalyst/The-Future-of-Tech-Skills-Data-Driven-Insights
-
----
-
-### 🔹 **Winning the Space Race with Data Science**  
-A full-cycle ML project predicting SpaceX Falcon 9 landing success.  
-**Tech:** Python, SQL, Machine Learning, Plotly Dash  
-🔗 https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science
-
----
 
 ### 🔹 **Data-Driven UX Optimization — A/B Testing & ROI Analytics**  
 Statistical A/B testing + Snowflake + Tableau to identify ROI opportunities and redesign user experience.  
